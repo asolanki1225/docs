@@ -32,3 +32,4 @@ tutorials to help you get hands-on experience.
 You can also find information about Oracles [here](https://docs.alephium.org/infrastructure/Oracles).
 
 Dive in to explore and build innovative DApps on Alephium!
+<s>aa</s>
